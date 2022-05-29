@@ -27,7 +27,7 @@
 
 <h3> <a href="https://cultivive.netlify.app/">Cultivive</a></h3>
 
-<h3> <a href="https://drive.google.com/file/d/1w7-4hqc2FAXPxnDJL3u5WseWY-NDrP8n/view?usp=sharing/">Cultivie doc</a></h3>
+<h3> <a href="https://drive.google.com/file/d/1w7-4hqc2FAXPxnDJL3u5WseWY-NDrP8n/view?usp=sharing/">Cultivive doc</a></h3>
 
 <br>
 
