@@ -35,11 +35,11 @@
 
 <h2>📷 Preview</h2>
 
-<img src="https://gifyu.com/image/SxCw9">
+<img src="https://gifyu.com/image/SxCw9](https://i.imgur.com/A6P3sWH.png">
 
 <br>
-
-<
+<img src="https://i.imgur.com/WSt4ymt.png">
+<br>
 
 <h2>💻 Tecnologias: <h2>
 <br>
