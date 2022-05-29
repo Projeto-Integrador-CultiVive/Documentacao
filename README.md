@@ -35,7 +35,7 @@
 
 <h2>📷 Preview</h2>
 
-<img src="https://gifyu.com/image/SxCw9](https://i.imgur.com/A6P3sWH.png">
+<img src="https://i.imgur.com/A6P3sWH.png">
 
 <br>
 <img src="https://i.imgur.com/WSt4ymt.png">
@@ -73,7 +73,7 @@
 
 <table>
   <tr>
-  <td align="center"><img style="width: 70%; border-radius: 50%" 
+  <td align="center"><img style="width: 60%; border-radius: 50%" 
   src="https://i.imgur.com/RUNyVED.jpg"
    alt="João Pedro"/><br /><sub style="font-size: 14px"><b>João Pedro Flauzino </b></sub><br /> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-flauzino-nascimento-4a931b232/" alt="Linkedin">
@@ -99,7 +99,7 @@
   </a>
   </tr>
   <tr>
-  <td align="center"><img style="width: 70%; border-radius: 50%"
+  <td align="center"><img style="width: 50%; border-radius: 50%"
   src="https://i.imgur.com/OkVZAVD.jpg"  alt=""/><br /><sub><b>Rosi Martins</b></sub></a><br />
    <a href="https://www.linkedin.com/in/rosi-martins-379482139/" alt="Linkedin">
   <br>
