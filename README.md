@@ -35,7 +35,7 @@
 
 <h2>📷 Preview</h2>
 
-<img src="https://drive.google.com/file/d/1CnsKoVRmYqPrpd2YQTOvnDsrWCrH5Uct/view?usp=sharing">
+<img src="https://gifyu.com/image/SxCw9">
 
 <br>
 
