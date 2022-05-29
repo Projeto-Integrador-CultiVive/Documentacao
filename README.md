@@ -35,7 +35,7 @@
 
 <h2>📷 Preview</h2>
 
-<img src="https://user-images.githubusercontent.com/80595156/139321661-1c596863-5f66-45b9-a25f-e9b4536d3ad0.gif">
+<img src="https://drive.google.com/file/d/1CnsKoVRmYqPrpd2YQTOvnDsrWCrH5Uct/view?usp=sharing">
 
 <br>
 
