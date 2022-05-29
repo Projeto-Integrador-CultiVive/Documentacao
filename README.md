@@ -25,9 +25,9 @@
 <h2>🔗 Links:</h2>
 
 
-<h3> <a href="https://cultivive.netlify.app/">Ecous</a></h3>
+<h3> <a href="https://cultivive.netlify.app/">Cultivive</a></h3>
 
-<h3> <a href="https://drive.google.com/file/d/1w7-4hqc2FAXPxnDJL3u5WseWY-NDrP8n/view?usp=sharing"/a> </h3>
+<h3> <a href="https://drive.google.com/file/d/1w7-4hqc2FAXPxnDJL3u5WseWY-NDrP8n/view?usp=sharing/">Cultivie doc</a></h3>
 
 <br>
 
@@ -45,13 +45,21 @@
 <br>
 <table align="center" style=" width: 60%" >
  - <img align="center" alt="Biell-Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/> Java
+    <br>
 - <img align="center" alt="Biell-React" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React
+    <br>
 - <img align="center" alt="Biell-TypeScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript
+    <br>
 - <img align="center" alt="Biell-CSS3" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
+    <br>
 - <img align="center" alt="Biell-Spring" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> Spring
-- <img align="center" alt="Biell-MySQL" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> MySQL 
+    <br>
+- <img align="center" alt="Biell-MySQL" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> MySQL
+    <br>
 - <img align="center" alt="Biell-Vscode" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> Visual Studio Code
+    <br>
 - <img align="center" alt="Biell-Git" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git
+    <br>
   
 - <img align="center" alt="Biell-Trello" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/> Trello
 
@@ -92,7 +100,7 @@
   </tr>
   <tr>
   <td align="center"><img style="width: 70%; border-radius: 50%"
-  src="hhttps://i.imgur.com/OkVZAVD.jpg"  alt=""/><br /><sub><b>Rosi Martins</b></sub></a><br />
+  src="https://i.imgur.com/OkVZAVD.jpg"  alt=""/><br /><sub><b>Rosi Martins</b></sub></a><br />
    <a href="https://www.linkedin.com/in/rosi-martins-379482139/" alt="Linkedin">
   <br>
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/rosi-martins-379482139/"  style= "width:90px;"/>
