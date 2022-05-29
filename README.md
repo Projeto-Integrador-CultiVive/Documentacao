@@ -1,5 +1,5 @@
 <h3 align="left">
-    Projeto integrador - G1:
+    Projeto integrador - Grupo 5:
 </h3>
 
 
