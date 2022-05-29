@@ -61,7 +61,7 @@
 - <img align="center" alt="Biell-Git" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git
     <br>
   
-- <img align="center" alt="Biell-Trello" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/> Trello
+- <img align="center" alt="Biell-Trello" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>Trello
 
 
 <br>
