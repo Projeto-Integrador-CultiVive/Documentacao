@@ -66,7 +66,7 @@
 <table>
   <tr>
   <td align="center"><img style="width: 70%; border-radius: 50%" 
-  src="https://avatars.githubusercontent.com/u/87526945?v=4](https://i.imgur.com/RUNyVED.jpg"
+  src="https://i.imgur.com/RUNyVED.jpg"
    alt="João Pedro"/><br /><sub style="font-size: 14px"><b>João Pedro Flauzino </b></sub><br /> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-flauzino-nascimento-4a931b232/" alt="Linkedin">
   <br>
